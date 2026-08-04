@@ -1,0 +1,66 @@
+CHALLA SAI RACHANA
+Andhra Pradesh, India | +91-9381706059 | challasairachana@gmail.com
+
+CAREER OBJECTIVE
+Motivated and detail-oriented Master of Computer Applications (MCA) student with a strong foundation in programming, data structures,
+algorithms, and database management. Seeking to begin a career as an Entry-Level Software Engineer at Accenture, contributing to software
+development through analytical thinking and problem-solving across the SDLC. Committed to continuous learning, adopting emerging
+technologies, and collaborating effectively within agile, cross-functional teams to deliver innovative, high-quality, and scalable solutions.
+
+TECHNICAL SKILLS
+Programming Languages: Java, Python, C
+Web Technologies: HTML, CSS, JavaScript
+Database: SQL, MySQL, DBMS (Database Management Systems)
+Machine Learning: Machine Learning Basics, Convolutional Neural Networks (CNN fundamentals)
+Tools & Platforms: VS Code, MS Excel, MS Word, PowerPoint, Windows
+Core Concepts: Object-Oriented Programming (OOP), Database Management, Analytical Skills
+Languages Known: English, Telugu, Hindi
+
+EDUCATION
+Master of Computer Applications (MCA) — Pursuing | 2024 – 2026
+DVR & Dr. HS MIC College of Technology, Kanchikacherla | JNTU Kakinada
+
+B.Sc. (Mathematics, Physics, Computer Science) | 2021 – 2024
+Vishwabharathi Degree College, Jaggayyapeta | Krishna University, Machilipatnam | CGPA: 8.26/10
+
+PROJECTS
+Sign Language to Text & Speech Converter
+Problem Statement: Individuals with hearing or speech impairments face communication barriers due to the lack of accessible, real-time tools
+that translate sign language into spoken or written language.
+Technologies Used: Python, Convolutional Neural Networks (CNN), OpenCV, Machine Learning, [Add framework, e.g.,
+TensorFlow/Keras, and dataset name] Key
+Features:
+•
+Real-time hand-gesture capture and image classification using a CNN-based deep learning model
+•
+Conversion of recognized sign-language gestures into corresponding text and audio output
+•
+Modular architecture designed to support future expansion to additional gestures and languages My Contribution:
+•
+Designed, trained, and evaluated the CNN architecture used for gesture classification
+•
+Built the image preprocessing and data pipeline to clean and prepare the training dataset
+•
+Integrated model output with a text-to-speech module, then debugged and optimized performance through iterative testing
+Outcome: Delivered a functional prototype capable of accurately recognizing predefined sign-language gestures, improving accessibility and
+communication for hearing- and speech-impaired users.
+
+INTERNSHIPS & TRAINING
+Machine Learning & Data Science Intern | Council for Skills and Competencies | May 2025 – June 2025
+• Built and trained ML classification models in Python, applying data preprocessing and feature engineering to improve accuracy
+• Strengthened debugging and analytical problem-solving skills by iteratively testing and refining model performance JobReady
+Employability Skills Program | Wadhwani Foundation
+• Completed structured training in workplace readiness, professional communication, and problem-solving
+• Practiced mock interviews and group discussions, strengthening verbal communication, analytical thinking, and corporate work-culture
+awareness
+
+Web Development: From Basics to Deployment | Workshop
+• Gained hands-on exposure to front-end technologies (HTML, CSS, JavaScript) and practiced deploying a sample web application across the
+end-to-end Software Development Life Cycle (SDLC) Community Service Project Intern
+• Collaborated with a team of volunteers to plan and execute community outreach initiatives and coordinated logistics for community
+programs, strengthening teamwork, communication, and time-management skills
+
+CORE COMPETENCIES
+Communication & Interpersonal Skills | Team Collaboration | Adaptability | ProblemSolving | Time Management | Self-Motivation
+
+
